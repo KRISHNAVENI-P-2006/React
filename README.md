@@ -1,3 +1,6 @@
+# Introduction
+This particular repository is going to track my React learning journey. Currently, you will find minimal, basic components here
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
